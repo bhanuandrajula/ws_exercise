@@ -1,0 +1,4302 @@
+{
+    "data": [
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003346088127",
+                                "name": "Fitchburg State University"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 35,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 60,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6095747941990"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464828,
+                            "name": "02111",
+                            "key": "US:02111",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic",
+                    "instream_video",
+                    "rewarded_video"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6094111588790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003136051176",
+                                "name": "MBTA Commuter Rail"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home",
+                        "recent"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic",
+                    "rewarded_video"
+                ],
+                "instagram_positions": [
+                    "stream",
+                    "story"
+                ],
+                "age_min": 25,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 57,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6093741923590"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Cambridge",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464909",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Somerville",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466348",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_min": 27,
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6093332146990"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Cambridge",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464909",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Somerville",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466348",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6093332146790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003249578667",
+                                "name": "History"
+                            },
+                            {
+                                "id": "6003702796491",
+                                "name": "Newport, Rhode Island"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Rhode Island",
+                            "key": "3882"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6093230948190"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Vermont",
+                            "key": "3888"
+                        }
+                    ],
+                    "cities": [
+                        {
+                            "name": "Jamestown",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "key": "2419932",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "Acton",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464680",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Rome",
+                            "country": "US",
+                            "region": "New York",
+                            "distance_unit": "mile",
+                            "key": "2491192",
+                            "region_id": "3875"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6092074643590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6004019712189",
+                                "name": "Boston"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article"
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "The Green",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466526",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65,
+                "exclusions": {
+                    "interests": [
+                        {
+                            "id": "6003142978061",
+                            "name": "Boston Red Sox"
+                        }
+                    ]
+                }
+            },
+            "id": "6084461188990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003344129239",
+                                "name": "Lazy Mutha Fucka"
+                            }
+                        ]
+                    }
+                ],
+                "age_max": 65,
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18
+            },
+            "id": "6084036972790"
+        },
+        {
+            "targeting": {
+                "age_max": 65,
+                "custom_audiences": [
+                    {
+                        "id": "6070682508590",
+                        "name": "Canada List"
+                    }
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "UM"
+                    ]
+                },
+                "age_min": 18
+            },
+            "id": "6084036954990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003107902433",
+                                "name": "Association football (Soccer)"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Union",
+                            "country": "US",
+                            "region": "New Jersey",
+                            "distance_unit": "mile",
+                            "key": "2485133",
+                            "region_id": "3873"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic",
+                    "instream_video",
+                    "rewarded_video"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6084036633590"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464828,
+                            "name": "02110",
+                            "key": "US:02110",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article"
+                ],
+                "age_max": 65
+            },
+            "id": "6084010304790"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464828,
+                            "name": "02110",
+                            "key": "US:02110",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article"
+                ],
+                "age_max": 65
+            },
+            "id": "6084010032990"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464828,
+                            "name": "02110",
+                            "key": "US:02110",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article"
+                ],
+                "age_max": 65
+            },
+            "id": "6084010032390"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6053053122990",
+                        "name": "Jen Test"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Utah",
+                            "key": "3887"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6083539346190"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6002968797092",
+                                "name": "Sausage"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003355520832",
+                                "name": "Egg (food)"
+                            }
+                        ]
+                    }
+                ],
+                "age_max": 65,
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "exclusions": {
+                    "interests": [
+                        {
+                            "id": "6003265203542",
+                            "name": "Breakfast"
+                        }
+                    ]
+                },
+                "age_min": 18
+            },
+            "id": "6083528409390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003154393939",
+                                "name": "Cookies &"
+                            }
+                        ]
+                    }
+                ],
+                "age_max": 65,
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18
+            },
+            "id": "6083528385590"
+        },
+        {
+            "targeting": {
+                "age_max": 30,
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "genders": [
+                    1
+                ],
+                "age_min": 25
+            },
+            "id": "6083528363590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "work_employers": [
+                            {
+                                "id": "215686331786877",
+                                "name": "Wayfair"
+                            }
+                        ]
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6071315225390",
+                        "name": "Another One"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2464828",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6082843010990"
+        },
+        {
+            "targeting": {
+                "age_max": 65,
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18
+            },
+            "id": "6082680956790"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic",
+                    "instream_video",
+                    "rewarded_video"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_min": 20,
+                "age_max": 50,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6082679682390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6004019712189",
+                                "name": "Boston"
+                            }
+                        ]
+                    }
+                ],
+                "age_max": 65,
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Columbus",
+                            "country": "US",
+                            "region": "Ohio",
+                            "distance_unit": "mile",
+                            "key": "2498913",
+                            "region_id": "3878"
+                        },
+                        {
+                            "name": "Eugene",
+                            "country": "US",
+                            "region": "Oregon",
+                            "distance_unit": "mile",
+                            "key": "2505095",
+                            "region_id": "3880"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "genders": [
+                    2
+                ],
+                "age_min": 18
+            },
+            "id": "6082677941990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003283984456",
+                                "name": "WordStream"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Modesto",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "key": "2420715",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "Saint Petersburg",
+                            "country": "US",
+                            "region": "Florida",
+                            "distance_unit": "mile",
+                            "key": "2429684",
+                            "region_id": "3852"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6082669139590"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "instant_article"
+                ],
+                "age_max": 65
+            },
+            "id": "6082628172790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003278094599",
+                                "name": "Ice cream"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6082622643590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003043729515",
+                                "name": "Fitchburg, Massachusetts"
+                            },
+                            {
+                                "id": "6003393663563",
+                                "name": "Ivanka Trump"
+                            },
+                            {
+                                "id": "6003728498116",
+                                "name": "KISS-FM (brand)"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Thornton",
+                            "country": "US",
+                            "region": "Colorado",
+                            "distance_unit": "mile",
+                            "key": "2424360",
+                            "region_id": "3848"
+                        },
+                        {
+                            "name": "Jackson",
+                            "country": "US",
+                            "region": "Mississippi",
+                            "distance_unit": "mile",
+                            "key": "2473380",
+                            "region_id": "3867"
+                        },
+                        {
+                            "name": "Buffalo",
+                            "country": "US",
+                            "region": "New York",
+                            "distance_unit": "mile",
+                            "key": "2487444",
+                            "region_id": "3875"
+                        },
+                        {
+                            "name": "Corpus Christi",
+                            "country": "US",
+                            "region": "Texas",
+                            "distance_unit": "mile",
+                            "key": "2526367",
+                            "region_id": "3886"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6082620892790"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6082483134790"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6082481981790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003126327749",
+                                "name": "Flying disc"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "instream_video",
+                    "rewarded_video"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article",
+                    "marketplace"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 20,
+                "age_max": 40,
+                "messenger_positions": [
+                    "messenger_home"
+                ],
+                "exclusions": {
+                    "interests": [
+                        {
+                            "id": "6003087413192",
+                            "name": "Baseball"
+                        }
+                    ]
+                }
+            },
+            "id": "6082481895990"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6071315225390",
+                        "name": "Another One"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6082271561990"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6059637084590",
+                        "name": "upload"
+                    },
+                    {
+                        "id": "6068916853390",
+                        "name": "WS - Lookalike -  - ZZDWRENEYYSH"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "UM"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6082271560390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003332344237",
+                                "name": "Dogs"
+                            }
+                        ]
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6071314960590",
+                        "name": "email list test"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 65
+            },
+            "id": "6082271544990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6015274166836",
+                                "name": "Young Thug"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6082271538790"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6081775235790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "life_events": [
+                            {
+                                "id": "6003054185372",
+                                "name": "Recently moved"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003192941072",
+                                "name": "Philadelphia Eagles"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column"
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Minneapolis",
+                            "country": "US",
+                            "region": "Minnesota",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2471428",
+                            "region_id": "3866"
+                        },
+                        {
+                            "name": "Philadelphia",
+                            "country": "US",
+                            "region": "Pennsylvania",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2511940",
+                            "region_id": "3881"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65
+            },
+            "id": "6080927382590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003290862311",
+                                "name": "Pistachio"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "VI"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6080908374590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003145979068",
+                                "name": "School"
+                            },
+                            {
+                                "id": "6003249578667",
+                                "name": "History"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Framingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465355",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6080841040590"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Boston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464828",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6080796580190"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6079842103590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "work_employers": [
+                            {
+                                "id": "65103467742",
+                                "name": "WordStream"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network",
+                    "messenger"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "age_max": 65,
+                "messenger_positions": [
+                    "messenger_home"
+                ]
+            },
+            "id": "6078293661790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003153975668",
+                                "name": "Conspiracy Theory (film)"
+                            },
+                            {
+                                "id": "6003273853508",
+                                "name": "Conspiracy theory"
+                            },
+                            {
+                                "id": "6003325602779",
+                                "name": "JFK (film)"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003283984456",
+                                "name": "WordStream"
+                            }
+                        ],
+                        "work_employers": [
+                            {
+                                "id": "54971236771",
+                                "name": "NASA - National Aeronautics and Space Administration"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Florida",
+                            "key": "3852"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Iowa",
+                            "key": "3858"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Montana",
+                            "key": "3869"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Nevada",
+                            "key": "3871"
+                        },
+                        {
+                            "country": "US",
+                            "name": "North Dakota",
+                            "key": "3877"
+                        }
+                    ],
+                    "cities": [
+                        {
+                            "name": "Detroit",
+                            "country": "US",
+                            "region": "Michigan",
+                            "distance_unit": "mile",
+                            "key": "2467497",
+                            "region_id": "3865"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 28,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 49
+            },
+            "id": "6076289021990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "life_events": [
+                            {
+                                "id": "6003053860372",
+                                "name": "Away from hometown"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6004037528609",
+                                "name": "American Revolution"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003361143987",
+                                "name": "New England Revolution"
+                            }
+                        ]
+                    }
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "California",
+                            "key": "3847"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Oregon",
+                            "key": "3880"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Washington",
+                            "key": "3890"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed"
+                ],
+                "excluded_geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Los Angeles",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "radius": 14,
+                            "key": "2420379",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "San Francisco",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2421836",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "San Jose",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2421846",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "Seattle",
+                            "country": "US",
+                            "region": "Washington",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2542527",
+                            "region_id": "3890"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6075641246190"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464828,
+                            "name": "02116",
+                            "key": "US:02116",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_min": 18,
+                "age_max": 29
+            },
+            "id": "6073901009790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "behaviors": [
+                            {
+                                "id": "6002714895372",
+                                "name": "Frequent Travelers"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6002868021822",
+                                "name": "Adventure travel"
+                            }
+                        ]
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6052600931190",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "IN"
+                    ]
+                },
+                "age_min": 20,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 50
+            },
+            "id": "6071075897390"
+        },
+        {
+            "targeting": {
+                "interests": [
+                    {
+                        "id": "6003111486235",
+                        "name": "Cowboy"
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "ES",
+                            "name": "Galicia",
+                            "key": "1031"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65
+            },
+            "id": "6070079856990"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Alba",
+                            "country": "IT",
+                            "region": "Piedmont",
+                            "distance_unit": "mile",
+                            "key": "1173803",
+                            "region_id": "1852"
+                        },
+                        {
+                            "name": "Justine",
+                            "country": "FR",
+                            "region": "Champagne-Ardenne",
+                            "distance_unit": "mile",
+                            "key": "755773",
+                            "region_id": "1074"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6069254780990"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "New York",
+                            "country": "US",
+                            "region": "Florida",
+                            "distance_unit": "mile",
+                            "key": "2429126",
+                            "region_id": "3852"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6069254595390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003125349139",
+                                "name": "Death Angel"
+                            },
+                            {
+                                "id": "6003392991271",
+                                "name": "Rockabilly"
+                            },
+                            {
+                                "id": "6003584348438",
+                                "name": "Aquarium"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003106276829",
+                                "name": "Preschool"
+                            },
+                            {
+                                "id": "6003155560408",
+                                "name": "After-school activity"
+                            },
+                            {
+                                "id": "6003243462342",
+                                "name": "Private school"
+                            },
+                            {
+                                "id": "6003434658370",
+                                "name": "Toddler"
+                            },
+                            {
+                                "id": "6003791981304",
+                                "name": "Day school"
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Ashland",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464716",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Framingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465355",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Holliston",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465513",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Hopkinton",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465519",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Milford",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465779",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Natick",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465855",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Southborough",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466441",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Wayland",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466629",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 53
+            },
+            "id": "6068378047590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003496694880",
+                                "name": "Jaguar Cars"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Banning",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "key": "2417864",
+                            "region_id": "3847"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 48,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65
+            },
+            "id": "6068210171790"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003249578667",
+                                "name": "History"
+                            },
+                            {
+                                "id": "6004037528609",
+                                "name": "American Revolution"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003123288417",
+                                "name": "American Hiking Society"
+                            },
+                            {
+                                "id": "6003487604603",
+                                "name": "Leo (astrology)"
+                            },
+                            {
+                                "id": "6013012538012",
+                                "name": "European Outdoor Film Tour (E.O.F.T.)"
+                            },
+                            {
+                                "id": "6015800985367",
+                                "name": "V-Moda"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Maryland",
+                            "key": "3863"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New Hampshire",
+                            "key": "3872"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New Jersey",
+                            "key": "3873"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New York",
+                            "key": "3875"
+                        },
+                        {
+                            "country": "US",
+                            "name": "North Carolina",
+                            "key": "3876"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Pennsylvania",
+                            "key": "3881"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Rhode Island",
+                            "key": "3882"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Virginia",
+                            "key": "3889"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 26,
+                "excluded_geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Maine",
+                            "key": "3862"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Vermont",
+                            "key": "3888"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 50
+            },
+            "id": "6068197873390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003410708205",
+                                "name": "Levenger Company"
+                            },
+                            {
+                                "id": "6003446107931",
+                                "name": "llbean"
+                            },
+                            {
+                                "id": "6003472914565",
+                                "name": "Productivity"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home",
+                        "recent"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 65,
+                "locales": [
+                    24,
+                    6
+                ]
+            },
+            "id": "6068156355790"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6067425399590",
+                        "name": "WS - Lookalike -  - LOGTMWHRDGWE"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "BR"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6067425407390"
+        },
+        {
+            "targeting": {
+                "interests": [
+                    {
+                        "id": "6003102227270",
+                        "name": "Misery (film)"
+                    },
+                    {
+                        "id": "6003158959675",
+                        "name": "Bic (company)"
+                    },
+                    {
+                        "id": "6003496694880",
+                        "name": "Jaguar Cars"
+                    },
+                    {
+                        "id": "6016735338448",
+                        "name": "Standup paddleboarding"
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2421846,
+                            "name": "95136",
+                            "key": "US:95136",
+                            "region_id": 3847
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 29,
+                "age_max": 65
+            },
+            "id": "6067249332190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2421846,
+                            "name": "95136",
+                            "key": "US:95136",
+                            "region_id": 3847
+                        }
+                    ],
+                    "cities": [
+                        {
+                            "name": "North Hollywood",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "key": "2420978",
+                            "region_id": "3847"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6067167175590"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "New York",
+                            "country": "US",
+                            "region": "New York",
+                            "distance_unit": "mile",
+                            "key": "2490299",
+                            "region_id": "3875"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 45,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 65
+            },
+            "id": "6066736955790"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "audience_network_positions": [
+                    "classic",
+                    "instream_video"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "age_min": 35,
+                "excluded_geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Alabama",
+                            "key": "3843"
+                        },
+                        {
+                            "country": "US",
+                            "name": "California",
+                            "key": "3847"
+                        },
+                        {
+                            "country": "US",
+                            "name": "District of Columbia",
+                            "key": "3851"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Florida",
+                            "key": "3852"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Georgia",
+                            "key": "3853"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Louisiana",
+                            "key": "3861"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Michigan",
+                            "key": "3865"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Minnesota",
+                            "key": "3866"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Mississippi",
+                            "key": "3867"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Nevada",
+                            "key": "3871"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New York",
+                            "key": "3875"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Ohio",
+                            "key": "3878"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Oregon",
+                            "key": "3880"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Pennsylvania",
+                            "key": "3881"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Texas",
+                            "key": "3886"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Washington",
+                            "key": "3890"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 50,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ]
+            },
+            "id": "6066735993590"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2464707,
+                            "name": "02474",
+                            "key": "US:02474",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65
+            },
+            "id": "6066327170390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6004019712189",
+                                "name": "Boston"
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 35,
+                "age_max": 65
+            },
+            "id": "6065476941790"
+        },
+        {
+            "targeting": {
+                "age_max": 65,
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Hartford",
+                            "country": "US",
+                            "region": "Connecticut",
+                            "distance_unit": "mile",
+                            "key": "2424862",
+                            "region_id": "3849"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 21
+            },
+            "id": "6065476666390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003341956023",
+                                "name": "JPMorgan Chase"
+                            },
+                            {
+                                "id": "6003481838664",
+                                "name": "New England Patriots"
+                            },
+                            {
+                                "id": "6004019712189",
+                                "name": "Boston"
+                            }
+                        ]
+                    },
+                    {
+                        "interests": [
+                            {
+                                "id": "6003312323454",
+                                "name": "New England"
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "audience_network"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Montana",
+                            "key": "3869"
+                        }
+                    ],
+                    "cities": [
+                        {
+                            "name": "Portland",
+                            "country": "US",
+                            "region": "Oregon",
+                            "distance_unit": "mile",
+                            "key": "2505639",
+                            "region_id": "3880"
+                        },
+                        {
+                            "name": "Seattle",
+                            "country": "US",
+                            "region": "Washington",
+                            "distance_unit": "mile",
+                            "key": "2542527",
+                            "region_id": "3890"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 25,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 65
+            },
+            "id": "6065349263390"
+        },
+        {
+            "targeting": {
+                "age_max": 65,
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Arizona",
+                            "key": "3845"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Colorado",
+                            "key": "3848"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Idaho",
+                            "key": "3855"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Utah",
+                            "key": "3887"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18
+            },
+            "id": "6065349261190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "none",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Idaho",
+                            "key": "3855"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 22,
+                "age_max": 58
+            },
+            "id": "6065347852990"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6065080457990"
+        },
+        {
+            "targeting": {
+                "interests": [
+                    {
+                        "id": "6003332406177",
+                        "name": "Organization"
+                    },
+                    {
+                        "id": "6003472914565",
+                        "name": "Productivity"
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6064973088190"
+        },
+        {
+            "targeting": {
+                "interests": [
+                    {
+                        "id": "6002905764479",
+                        "name": "Computer Repairs"
+                    },
+                    {
+                        "id": "6003318980848",
+                        "name": "Macintosh"
+                    },
+                    {
+                        "id": "6003629266583",
+                        "name": "Hard drives"
+                    },
+                    {
+                        "id": "6003714859862",
+                        "name": "Computer repair technician"
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Ashland",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464716",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Framingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465355",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Orleans",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466048",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Worcester",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466833",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6064970405190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Woburn",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466821",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6064968007190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6045291304590",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6064963941190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "zips": [
+                        {
+                            "country": "US",
+                            "primary_city_id": 2466348,
+                            "name": "02143",
+                            "key": "US:02143",
+                            "region_id": 3864
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6045291304590",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 21,
+                "age_max": 65
+            },
+            "id": "6063344434590"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6002934241659",
+                                "name": "Dog breed"
+                            },
+                            {
+                                "id": "6003506359986",
+                                "name": "Software widget"
+                            },
+                            {
+                                "id": "6003703132491",
+                                "name": "Medical research"
+                            }
+                        ]
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6045291304590",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Acton",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464680",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Ashland",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464716",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Bellingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464790",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Carlisle",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2464992",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Maynard",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465736",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Medfield",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465748",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Natick",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2465855",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Southborough",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466441",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Stow",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466479",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Westborough",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "key": "2466738",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Fort Monroe",
+                            "country": "US",
+                            "region": "Virginia",
+                            "distance_unit": "mile",
+                            "key": "2700698",
+                            "region_id": "3889"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "targeting_optimization": "expansion_all",
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 21,
+                "age_max": 65
+            },
+            "id": "6063289769190"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network"
+                ],
+                "audience_network_positions": [
+                    "classic"
+                ],
+                "instagram_positions": [
+                    "stream"
+                ],
+                "targeting_optimization": "expansion_all",
+                "age_min": 19,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "age_max": 23
+            },
+            "id": "6062771279790"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Jacksonville",
+                            "country": "US",
+                            "region": "Florida",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2428577",
+                            "region_id": "3852"
+                        },
+                        {
+                            "name": "Monroe",
+                            "country": "US",
+                            "region": "Louisiana",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2454222",
+                            "region_id": "3861"
+                        },
+                        {
+                            "name": "Braintree",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2464844",
+                            "region_id": "3864"
+                        },
+                        {
+                            "name": "Irwin",
+                            "country": "US",
+                            "region": "Ohio",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2500102",
+                            "region_id": "3878"
+                        },
+                        {
+                            "name": "Knoxville",
+                            "country": "US",
+                            "region": "Tennessee",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2522827",
+                            "region_id": "3885"
+                        },
+                        {
+                            "name": "Sandy",
+                            "country": "US",
+                            "region": "Utah",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2532354",
+                            "region_id": "3887"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 29,
+                "age_max": 65
+            },
+            "id": "6060296391990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003249578667",
+                                "name": "History"
+                            },
+                            {
+                                "id": "6004037528609",
+                                "name": "American Revolution"
+                            },
+                            {
+                                "id": "6004160395895",
+                                "name": "Travel"
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "California",
+                            "key": "3847"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "instagram_positions": [
+                    "stream"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6059967649190"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Kansas",
+                            "distance_unit": "mile",
+                            "key": "2447756",
+                            "region_id": "3859"
+                        },
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Ohio",
+                            "distance_unit": "mile",
+                            "key": "2501588",
+                            "region_id": "3878"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ],
+                    "geo_markets": [
+                        {
+                            "country": "US",
+                            "name": "Reno",
+                            "key": "DMA:811"
+                        }
+                    ]
+                },
+                "excluded_custom_audiences": [
+                    {
+                        "id": "6052600931190",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6045291304590",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 13,
+                "age_max": 65
+            },
+            "id": "6059619362590"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Kansas",
+                            "distance_unit": "mile",
+                            "key": "2447756",
+                            "region_id": "3859"
+                        },
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Ohio",
+                            "distance_unit": "mile",
+                            "key": "2501588",
+                            "region_id": "3878"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ],
+                    "geo_markets": [
+                        {
+                            "country": "US",
+                            "name": "Reno",
+                            "key": "DMA:811"
+                        }
+                    ]
+                },
+                "excluded_custom_audiences": [
+                    {
+                        "id": "6052600931190",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "custom_audiences": [
+                    {
+                        "id": "6045291304590",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 13,
+                "age_max": 65
+            },
+            "id": "6059619064390"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram",
+                    "audience_network"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Las Vegas",
+                            "country": "US",
+                            "region": "Nevada",
+                            "distance_unit": "mile",
+                            "key": "2481714",
+                            "region_id": "3871"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6059637084590",
+                        "name": "upload"
+                    }
+                ],
+                "facebook_positions": [
+                    "feed",
+                    "right_hand_column",
+                    "instant_article"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "user_os": [
+                    "iOS"
+                ],
+                "age_min": 13,
+                "age_max": 65
+            },
+            "id": "6059617210390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "custom_audiences": [
+                            {
+                                "id": "6045291304590",
+                                "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook",
+                    "instagram"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Kansas",
+                            "distance_unit": "mile",
+                            "key": "2447756",
+                            "region_id": "3859"
+                        },
+                        {
+                            "name": "Reno",
+                            "country": "US",
+                            "region": "Ohio",
+                            "distance_unit": "mile",
+                            "key": "2501588",
+                            "region_id": "3878"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ],
+                    "geo_markets": [
+                        {
+                            "country": "US",
+                            "name": "Reno",
+                            "key": "DMA:811"
+                        }
+                    ]
+                },
+                "excluded_custom_audiences": [
+                    {
+                        "id": "6052600931190",
+                        "name": "WS - Lookalike - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 13,
+                "age_max": 65
+            },
+            "id": "6059574317990"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Maine",
+                            "key": "3862"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New Hampshire",
+                            "key": "3872"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Rhode Island",
+                            "key": "3882"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Vermont",
+                            "key": "3888"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65
+            },
+            "id": "6057416038790"
+        },
+        {
+            "targeting": {
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 65
+            },
+            "id": "6054648377190"
+        },
+        {
+            "targeting": {
+                "interests": [
+                    {
+                        "id": "6003142930447",
+                        "name": "Gluten-free diet"
+                    },
+                    {
+                        "id": "6003648987038",
+                        "name": "Gluten"
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Framingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2465355",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 28,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "age_max": 43
+            },
+            "id": "6050470825390"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003136051176",
+                                "name": "MBTA Commuter Rail"
+                            }
+                        ]
+                    }
+                ],
+                "targeting_optimization": "expansion_all",
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Framingham",
+                            "country": "US",
+                            "region": "Massachusetts",
+                            "distance_unit": "mile",
+                            "radius": 25,
+                            "key": "2465355",
+                            "region_id": "3864"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "age_min": 30,
+                "device_platforms": [
+                    "mobile",
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "feed"
+                ],
+                "genders": [
+                    2
+                ],
+                "age_max": 36
+            },
+            "id": "6043317347190"
+        },
+        {
+            "targeting": {
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "regions": [
+                        {
+                            "country": "US",
+                            "name": "Connecticut",
+                            "key": "3849"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Maine",
+                            "key": "3862"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Massachusetts",
+                            "key": "3864"
+                        },
+                        {
+                            "country": "US",
+                            "name": "New Hampshire",
+                            "key": "3872"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Rhode Island",
+                            "key": "3882"
+                        },
+                        {
+                            "country": "US",
+                            "name": "Vermont",
+                            "key": "3888"
+                        }
+                    ],
+                    "location_types": [
+                        "home",
+                        "recent"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "right_hand_column"
+                ],
+                "age_max": 65,
+                "locales": [
+                    24,
+                    6
+                ]
+            },
+            "id": "6041831227990"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003318980848",
+                                "name": "Macintosh"
+                            },
+                            {
+                                "id": "6003434050743",
+                                "name": "Unix"
+                            }
+                        ]
+                    }
+                ],
+                "facebook_positions": [
+                    "right_hand_column"
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home"
+                    ],
+                    "countries": [
+                        "US",
+                        "GB"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "desktop"
+                ],
+                "genders": [
+                    1
+                ],
+                "age_max": 65,
+                "locales": [
+                    24,
+                    6
+                ]
+            },
+            "id": "6041831076190"
+        },
+        {
+            "targeting": {
+                "flexible_spec": [
+                    {
+                        "interests": [
+                            {
+                                "id": "6003277339379",
+                                "name": "Travel Planner"
+                            },
+                            {
+                                "id": "6017457459012",
+                                "name": "The Strain (TV series)"
+                            }
+                        ],
+                        "life_events": [
+                            {
+                                "id": "6005149512172",
+                                "name": "New job"
+                            }
+                        ]
+                    },
+                    {
+                        "work_employers": [
+                            {
+                                "id": "89742860745",
+                                "name": "NBC"
+                            }
+                        ]
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "cities": [
+                        {
+                            "name": "Orange",
+                            "country": "US",
+                            "region": "California",
+                            "distance_unit": "mile",
+                            "key": "2421130",
+                            "region_id": "3847"
+                        },
+                        {
+                            "name": "Joliet",
+                            "country": "US",
+                            "region": "Illinois",
+                            "distance_unit": "mile",
+                            "key": "2439271",
+                            "region_id": "3856"
+                        },
+                        {
+                            "name": "Baltimore",
+                            "country": "US",
+                            "region": "Maryland",
+                            "distance_unit": "mile",
+                            "key": "2457691",
+                            "region_id": "3863"
+                        },
+                        {
+                            "name": "Detroit",
+                            "country": "US",
+                            "region": "Michigan",
+                            "distance_unit": "mile",
+                            "key": "2467497",
+                            "region_id": "3865"
+                        },
+                        {
+                            "name": "Garland",
+                            "country": "US",
+                            "region": "Texas",
+                            "distance_unit": "mile",
+                            "key": "2527150",
+                            "region_id": "3886"
+                        },
+                        {
+                            "name": "Richmond",
+                            "country": "US",
+                            "region": "Virginia",
+                            "distance_unit": "mile",
+                            "key": "2538983",
+                            "region_id": "3889"
+                        }
+                    ],
+                    "location_types": [
+                        "home"
+                    ]
+                },
+                "facebook_positions": [
+                    "right_hand_column"
+                ],
+                "device_platforms": [
+                    "desktop"
+                ],
+                "age_min": 18,
+                "age_max": 65,
+                "locales": [
+                    24,
+                    6
+                ]
+            },
+            "id": "6041830796390"
+        },
+        {
+            "targeting": {
+                "custom_audiences": [
+                    {
+                        "id": "6041497320390",
+                        "name": "WS - Remarketing - All Website Visitors - GKaWeXywbRx831kvj8g/JQ=="
+                    }
+                ],
+                "publisher_platforms": [
+                    "facebook"
+                ],
+                "geo_locations": {
+                    "location_types": [
+                        "home",
+                        "recent"
+                    ],
+                    "countries": [
+                        "US"
+                    ]
+                },
+                "age_min": 18,
+                "device_platforms": [
+                    "desktop"
+                ],
+                "facebook_positions": [
+                    "right_hand_column"
+                ],
+                "age_max": 65
+            },
+            "id": "6041512247990"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>This site was build using Python Django</h2>
+</br>
+<h3>Word Stream coding Exercise</h3>
+</br>
+<p>Description: This coding exercise is completely build using Python</p>
+
+<p>This website basically contains 4 menus on the header of the page</p>
+<li>Home</li>
+<li>Geo Locations</li>
+<li>Data</li>
+<li>Contact</li>
+
+<p><b>Home:</b> This Menu talks about the functionality and menus of the page</p>
+<p><b>Geo Locations: </b>This menu consists of two drop downs</br></br>
+    1. Geo location by</br>
+    2. Top frequent locations</br></br>
+    By selecting these options it will find the most frequent geo locations in the data set
+    Frequent locations are added up based on regions and displayed.</br>
+    <b>PS:</b> In case of Geo location by Zips, the corresponding region id is mapped and displayed
+</p>
+
+<p><b>Data:</b>This Menu is used to load data from the <a href="https://app.wordstream.com/services/v1/wordstream/interview_data">source</a>
+This uses a local json which will be updated based on delete operations, Data can always be overwritten from source using Load
+This also provides feature to delete the target using target id
+Deletion of subtypes can be done using Delete by subtype
+After deleting target or subtypes this can be cross verified on clicking view button and searching for deleted value
+</p>
+
+
+
+{% endblock content %}

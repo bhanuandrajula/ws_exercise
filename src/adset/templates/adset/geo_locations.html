@@ -1,0 +1,196 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script type='text/javascript'>
+    $(document).ready(function(){
+    $('select').change(function(){
+  $(this).parent().siblings().find('.save').prop('disabled', false);
+});
+        $('#geo').onkeyup(function () {
+            if ($(this).val() == '') {
+                $('.enableOnInput').prop('disabled', true);
+            } else {
+                $('.enableOnInput').prop('disabled', false);
+            }
+        });
+    });
+</script>
+
+<style>
+
+table.blueTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 30%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.blueTable tbody td {
+  font-size: 17px;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.blueTable tfoot td {
+  font-size: 14px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+</style>
+
+<h1>Geo locations</h1>
+<p>
+
+
+<form action="" id="geo" method="POST"> {% csrf_token %}
+
+    {{ form }}
+
+    <table class="blueTable">
+  <tr>
+    <td>Geo Location by:   </td>
+    <td>
+    <select name="geo_subtypes" >
+        <option value="">Select subtype</option>
+  <option value="zips" {% if subtype == "zips" %}selected="selected"{% endif %}>Zips</option>
+  <option value="regions" {% if subtype == "regions" %}selected="selected"{% endif %}>Regions</option>
+  <option value="cities" {% if subtype == "cities" %}selected="selected"{% endif %}>Cities</option>
+  <option value="countries" {% if subtype == "countries" %}selected="selected"{% endif %}>Countries</option>
+  <option value="geo_markets" {% if subtype == "geo_markets" %}selected="selected"{% endif %}>Geo Markets</option>
+</select>
+    </td>
+    <td style="display: none" id="NameError">*</td>
+  </tr>
+  <tr>
+    <td>Top frequent Locations: </td>
+    <td>
+
+            <select name="top_frequent" >
+                <option value="">Select</option>
+  <option value="1" {% if freq_value == "1" %}selected="selected"{% endif %}>1</option>
+  <option value="2" {% if freq_value == "2" %}selected="selected"{% endif %}>2</option>
+  <option value="3" {% if freq_value == "3" %}selected="selected"{% endif %}>3</option>
+  <option value="4" {% if freq_value == "4" %}selected="selected"{% endif %}>4</option>
+  <option value="5" {% if freq_value == "5" %}selected="selected"{% endif %}>5</option>
+  <option value="6" {% if freq_value == "6" %}selected="selected"{% endif %}>6</option>
+  <option value="7" {% if freq_value == "7" %}selected="selected"{% endif %}>7  </option>
+</select>
+
+    </td>
+    <td width="15%">
+        <input type="submit" name= "submitbutton" value="Submit" >
+    </td>
+  </tr>
+</table>
+
+
+
+</form>
+
+
+</br>
+</br>
+</br>
+
+<div class="container">
+{% if data %}
+<table class="blueTable" style=" float: left; " width="35%" border="2">
+ <tr>
+         <th>Geo Locations by {{ subtype }}</th>
+  </tr>
+     <tr>
+        {% for values in data %}
+         {% if not forloop.counter|divisibleby:2 %}
+                  {% for v in values.1 %}
+                <tr>
+                        <td>{{ v }}</td>
+                </tr>
+                    {% endfor %}
+         {% endif %}
+        {% endfor %}
+
+     </tr>
+
+</table>
+{% endif %}
+
+{% if not data and not msg  %}
+    <div id="disappear">
+    <p>No Data present for Geo location type {{ subtype }}</p>
+     <p>Please load data from  Data menu</p>
+    </div>
+{% endif %}
+
+    {% comment %}
+{% if msg  %}
+    <div id="disappear">
+    <p>{{ msg }}</p>
+    </div>
+{% endif %}
+{% endcomment %}
+{% if data %}
+<table class="blueTable" style="width=5%" border="2">
+ <tr>
+         <th>Count</th>
+  </tr>
+
+     <tr>
+        {% for values in data %}
+                 {% if forloop.counter|divisibleby:2 %}
+                    {% for count in values.1 %}
+    <tr>
+        <td>{{ count }}</td>
+    </tr>
+                    {% endfor %}
+            {% endif %}
+        {% endfor %}
+
+     </tr>
+
+</table>
+ {% endif %}
+</div>
+{% endblock content %}
+
+

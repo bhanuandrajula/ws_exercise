@@ -1,0 +1,154 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script type='text/javascript'>
+    $(document).ready(function(){
+    $('#disappear').show().delay(3000).fadeOut(1);
+    });
+</script>
+
+<style>
+
+table.blueTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.blueTable tbody td {
+  font-size: 17px;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.blueTable tfoot td {
+  font-size: 14px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+</style>
+
+<h1>Update local Adset data</h1>
+<p>
+
+
+<form action="" method="POST"> {% csrf_token %}
+
+    {{ form }}
+
+    <table class="blueTable">
+  <tr>
+    <td><input type="hidden" value = "load_data" name="load_data"> Load data from source ( This will overwrite the local data )  </td>
+      <td></td>
+    <td width="25%">
+        <input type="submit" class ="button" value="Load" name="load">
+    </td>
+  </tr>
+  <tr>
+    <td><input type="hidden" name="view_local_data"> View local data as Json </td>
+              <td></td>
+    <td >
+        <input type="submit" class ="button" value="View" name="view">
+    </td>
+  </tr>
+  <tr>
+    <td><input type="hidden" name="delete_local_data"> Delete by targeting id  </td>
+      <td>
+ <select  name="target_ids">
+     <option value="">Select targeting id</option>
+{% for id in target_ids %}
+    <option value="{{ id }}">{{ id }}</option>
+{% endfor %}
+</select>
+      </td>
+    <td width="25%">
+        <input type="submit" class ="button" value="Delete" name="delete">
+    </td>
+  </tr>
+   <tr>
+           <td><input type="hidden" name="delete_subtype"> Delete by subtype  </td>
+      <td>
+ <select  name="subtypedelete">
+     <option value="">Select subtype</option>
+    <option value="zips" >Zips</option>
+  <option value="regions" >Regions</option>
+  <option value="cities" >Cities</option>
+  <option value="countries">Countries</option>
+  <option value="geo_markets" >Geo Markets</option>
+</select>
+
+      </td>
+    <td width="25%">
+        <input type="submit" class ="button" value="Delete" name="subtype_to_delete">
+    </td>
+  </tr>
+
+</table>
+
+
+
+</form>
+
+
+</br>
+</br>
+</br>
+
+<div id="disappear">
+
+    {% if del_msg %}
+    <p>{{ del_msg }}</p>
+
+    {% endif %}
+
+        {% if load_msg %}
+        <p>{{ load_msg }}</p>
+
+    {% endif %}
+
+</div>
+{% endblock content %}
+
+
